@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Armood.SQLServer
-build_property.ProjectDir = /Users/alizade/Desktop/ArmoodBank/Armood/Armood.SQLServer/
+build_property.ProjectDir = /Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

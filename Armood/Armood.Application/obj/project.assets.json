@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Application/Armood.Application.csproj",
+      "projectUniqueName": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Application/Armood.Application.csproj",
       "projectName": "Armood.Application",
-      "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Application/Armood.Application.csproj",
+      "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Application/Armood.Application.csproj",
       "packagesPath": "/Users/alizade/.nuget/packages/",
-      "outputPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Application/obj/",
+      "outputPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alizade/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj": {
-              "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj"
+            "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj": {
+              "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj"
             }
           }
         }

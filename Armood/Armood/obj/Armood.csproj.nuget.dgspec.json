@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alizade/Desktop/ArmoodBank/Armood/Armood/Armood.csproj": {}
+    "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood/Armood.csproj": {}
   },
   "projects": {
-    "/Users/alizade/Desktop/ArmoodBank/Armood/Armood/Armood.csproj": {
+    "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood/Armood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood/Armood.csproj",
+        "projectUniqueName": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood/Armood.csproj",
         "projectName": "Armood",
-        "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood/Armood.csproj",
+        "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood/Armood.csproj",
         "packagesPath": "/Users/alizade/.nuget/packages/",
-        "outputPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood/obj/",
+        "outputPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alizade/.nuget/NuGet/NuGet.Config"

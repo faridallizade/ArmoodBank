@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
+      "projectUniqueName": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
       "projectName": "Armood.SQLServer",
-      "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
+      "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
       "packagesPath": "/Users/alizade/.nuget/packages/",
-      "outputPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.SQLServer/obj/",
+      "outputPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alizade/.nuget/NuGet/NuGet.Config"
@@ -249,11 +249,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj": {
-              "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj"
+            "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj": {
+              "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Domain/Armood.Domain.csproj"
             },
-            "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj": {
-              "projectPath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj"
+            "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj": {
+              "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj"
             }
           }
         }

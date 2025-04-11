@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0n6RoD5g6vE=",
+  "dgSpecHash": "u8SWtcBbGwk=",
   "success": true,
-  "projectFilePath": "/Users/alizade/Desktop/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
+  "projectFilePath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj",
   "expectedPackageFiles": [
     "/Users/alizade/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
     "/Users/alizade/.nuget/packages/microsoft.extensions.configuration/10.0.0-preview.2.25163.2/microsoft.extensions.configuration.10.0.0-preview.2.25163.2.nupkg.sha512",

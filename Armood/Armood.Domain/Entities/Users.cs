@@ -13,7 +13,7 @@ public class Users
     public DateTime Birthdate { get; set; }
     public string Gender { get; set; }
     public DateTime CreateDate { get; set; }
-    public string Status { get; set; }
+    public int Status { get; set; }
     public string SecurityKey { get; set; }
     public int FraudScore { get; set; }
 }
