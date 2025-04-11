@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Armood.Domain\Armood.Domain.csproj" />
+      <ProjectReference Include="..\Armood.Repository\Armood.Repository.csproj" />
     </ItemGroup>
 
 </Project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Armood.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e1070ca95ddebc4db6aac672206875884950bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4c2321f5d491769070771e6a93f6758a60ba5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Armood.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Armood.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

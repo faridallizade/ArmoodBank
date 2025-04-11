@@ -1,0 +1,16 @@
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/bin/Debug/net8.0/Armood.Repository.deps.json
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/bin/Debug/net8.0/Armood.Repository.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/bin/Debug/net8.0/Armood.Repository.pdb
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/bin/Debug/net8.0/Armood.Domain.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/bin/Debug/net8.0/Armood.Domain.pdb
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.csproj.AssemblyReference.cache
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.AssemblyInfoInputs.cache
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.AssemblyInfo.cs
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.csproj.CoreCompileInputs.cache
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.sourcelink.json
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.R.81F57F59.Up2Date
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/refint/Armood.Repository.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/Armood.Repository.pdb
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/obj/Debug/net8.0/ref/Armood.Repository.dll

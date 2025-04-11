@@ -1,0 +1,12 @@
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/bin/Debug/net8.0/Armood.SharedLibrary.deps.json
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/bin/Debug/net8.0/Armood.SharedLibrary.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/bin/Debug/net8.0/Armood.SharedLibrary.pdb
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.AssemblyInfoInputs.cache
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.AssemblyInfo.cs
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.sourcelink.json
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/refint/Armood.SharedLibrary.dll
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/Armood.SharedLibrary.pdb
+/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/Debug/net8.0/ref/Armood.SharedLibrary.dll

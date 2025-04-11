@@ -12,4 +12,10 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Armood.Application\Armood.Application.csproj" />
+      <ProjectReference Include="..\Armood.Repository\Armood.Repository.csproj" />
+      <ProjectReference Include="..\Armood.SQLServer\Armood.SQLServer.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -9,10 +9,12 @@
     <ItemGroup>
       <ProjectReference Include="..\Armood.Domain\Armood.Domain.csproj" />
       <ProjectReference Include="..\Armood.Repository\Armood.Repository.csproj" />
+      <ProjectReference Include="..\Armood.SharedLibrary\Armood.SharedLibrary.csproj" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Dapper" Version="2.1.66" />
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
       <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.0-preview.2.25163.2" />
     </ItemGroup>
 

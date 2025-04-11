@@ -1,4 +1,3 @@
-using System.Runtime.InteropServices.JavaScript;
 
 namespace Armood.Domain.Entities;
 

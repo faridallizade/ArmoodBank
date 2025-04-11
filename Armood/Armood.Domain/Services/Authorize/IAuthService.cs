@@ -1,6 +1,9 @@
+using Armood.Domain.RequestAndResponse.Requests;
+using Armood.Domain.RequestAndResponse.Responses;
+
 namespace Armood.Domain.Services.Authorize;
 
-public class IAuthService
+public interface IAuthService
 {
-    
+    Task<UserResponse> CreateUser(UserRegistrationRequest userRegistrationRequest);
 }

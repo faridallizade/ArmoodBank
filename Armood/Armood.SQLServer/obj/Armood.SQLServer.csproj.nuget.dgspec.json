@@ -124,6 +124,64 @@
         }
       }
     },
+    "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/Armood.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/Armood.SharedLibrary.csproj",
+        "projectName": "Armood.SharedLibrary",
+        "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/Armood.SharedLibrary.csproj",
+        "packagesPath": "/Users/alizade/.nuget/packages/",
+        "outputPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alizade/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SQLServer/Armood.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -151,6 +209,9 @@
               },
               "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj": {
                 "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.Repository/Armood.Repository.csproj"
+              },
+              "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/Armood.SharedLibrary.csproj": {
+                "projectPath": "/Users/alizade/Desktop/Armood/github/ArmoodBank/Armood/Armood.SharedLibrary/Armood.SharedLibrary.csproj"
               }
             }
           }
@@ -173,6 +234,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
